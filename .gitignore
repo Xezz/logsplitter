@@ -5,5 +5,4 @@
 *.iml
 *.iws
 .DS_Store
-log/
 target/
